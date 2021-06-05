@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abhishek kumar jha
 - 👀 I’m interested in Coding, Development, ML and AI
-- 🌱 I’m currently learning  Image Processing 
+- 🌱 I’m currently learning Backend Development  
 - 💞️ I’m looking to collaborate on various open source
 projects
 - 📫 How to reach me : mail: Akj1608@gmail.com
