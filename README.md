@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend Development  
 - 💞️ I’m looking to collaborate on various open source
 projects
-- 📫 How to reach me : mail: Akj1608@gmail.com
+- 📫 How to reach me : mail: akj1608@gmail.com
 
 <!---
 akj1608/akj1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
