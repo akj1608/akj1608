@@ -1,5 +1,5 @@
 - 👋 Hi, I’m abhishek kumar jha
-- 👀 I’m interested in Coding, Development, ML and AI
+- 👀 I’m interested in Coding, and Development
 - 🌱 I’m currently learning Backend Development  
 - 💞️ I’m looking to collaborate on various open source
 projects
