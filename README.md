@@ -26,3 +26,21 @@
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akj1608.akj1608)
+
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/akj1608/akj1608">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj1608&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/akj1608/akj1608">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akj1608&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
+</a>
+<a href="https://github.com/akj1608/akj1608">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akj1608&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/akj1608/akj1608">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akj1608&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/akj1608/akj1608">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akj1608&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
