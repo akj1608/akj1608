@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Coding, and Development
 - 🌱 I’m currently learning Backend Development  
-- 🌱 Learning all about: **HTML, CSS, Bootstrap, Node, Express, MongoDB, React, REST API **
+- 🌱 Learning all about: **HTML, CSS, Bootstrap, Node, Express, MongoDB, React, REST API**
 - ⚡ Fun fact: **I am a textbook INFJ personality type :)**
 
 <h3 align="left">Languages and Tools:</h3>
