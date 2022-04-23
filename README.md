@@ -32,7 +32,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=akj1608&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px" >
+      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=akj1608&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="450px" height="200px" >
     </td>
     <td align="center">
         <img src ="https://github-readme-streak-stats.herokuapp.com?user=akj1608&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
@@ -40,10 +40,10 @@
   </tr>
     <tr>
     <td align="center">
-        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=akj1608&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=akj1608&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="450px" height="200px">
     </td>
       <td>
-        <img src="https://activity-graph.herokuapp.com/graph?username=akj1608&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
+        <img src="https://activity-graph.herokuapp.com/graph?username=akj1608&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="450px" height="200px">
       </td>
   </tr>
 </table>
