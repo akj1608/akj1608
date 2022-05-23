@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<h3 align="left">Connect With Me:</h3>
+# 🚩 Find Me On
 
 <a href="https://www.linkedin.com/in/kumar-abhishek-jha/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
