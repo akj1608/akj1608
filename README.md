@@ -50,22 +50,10 @@
 
 # 🚩 Find Me On
 
-<a href="https://www.linkedin.com/in/kumar-abhishek-jha/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/I_am_akj1608">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:akj1608@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://dev.to/akj1608">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
-</a>
-<a href="https://www.instagram.com/kumar_abhishek_jha//">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-abhishek-jha/)](https://www.linkedin.com/in/kumar-abhishek-jha/)
+[![Instagram Badge](https://img.shields.io/badge/-Abhishek_on_insta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kumar_abhishek_jha/)](https://www.instagram.com/kumar_abhishek_jha/)
+[![Twitter Badge](https://img.shields.io/badge/-@i_am_akj1608-03a57a?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/I_am_akj1608/)](https://twitter.com/I_am_akj1608)
+[![Gmail Badge](https://img.shields.io/badge/-akj1608@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akj1608@gmail.com)](mailto:akj1608@gmail.com)
 
 <br />
 <br />
