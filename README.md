@@ -1,6 +1,6 @@
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm [Abhishek!](https://akj1608.github.io)
+## Hey 👋 I'm [Abhishek!](https://akj1608.github.io)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79482823/155892058-44d3173b-3abd-4202-81d2-26c959207c76.gif" width="400" title="hover text">
