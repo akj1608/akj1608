@@ -1,6 +1,6 @@
 
 
-## Hey नमस्ते (Namaste)👋  I'm [Abhishek!](https://akj1608.github.io)
+## Hey नमस्ते (Namaste)👋  I'm [Abhishek!](https://kumar-abhishek-jha.netlify.app/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79482823/155892058-44d3173b-3abd-4202-81d2-26c959207c76.gif" width="400" title="hover text">
@@ -16,7 +16,12 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akj1608.akj1608)
+<br/>
 
+<div align ="center">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kumar-abhishek-jha/)
+<img alt="followers" src="https://img.shields.io/github/followers/akj1608?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+</div>
 
 
 
@@ -74,10 +79,21 @@
 
 # 🚩 Find Me On
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-abhishek-jha/)](https://www.linkedin.com/in/kumar-abhishek-jha/)
-[![Instagram Badge](https://img.shields.io/badge/-Abhishek_on_insta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kumar_abhishek_jha/)](https://www.instagram.com/kumar_abhishek_jha/)
-[![Twitter Badge](https://img.shields.io/badge/-@i_am_akj1608-03a57a?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/I_am_akj1608/)](https://twitter.com/I_am_akj1608)
-[![Gmail Badge](https://img.shields.io/badge/-akj1608@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akj1608@gmail.com)](mailto:akj1608@gmail.com)
+<br/>
+
+
+<div align ="center">
+
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kumar-abhishek-jha/)
+[<img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kumar_abhishek_jha/)
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/I_am_akj1608/)
+[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:akj1608@gmail.com/)
+
+
+
+</div>
 
 <br />
 <br />
