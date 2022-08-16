@@ -19,8 +19,8 @@
 <br/>
 
 <div align ="center">
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kumar-abhishek-jha/)
-<img alt="followers" src="https://img.shields.io/github/followers/akj1608?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+
+  <img alt="followers" src="https://img.shields.io/github/followers/akj1608?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
 </div>
 
 
