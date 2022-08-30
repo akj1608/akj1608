@@ -94,11 +94,33 @@
 
 
 </div>
+<h2> <summary align="center"> GitHub Trophies 🏆</summary></h2>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=akj1608&theme=gruvbox"/>
+  </a>
+</p>
+
 
 <br />
 <br />
+
+
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/akj1608/akj1608/blob/output/github-contribution-grid-snake.svg)
+
+
+<center>
+<h2 align="center">Github Stats 📈</h2>
+
+<p align="center"><img src="https://metrics.lecoq.io/akj1608" alt="Github Metrics"></p>
+
+![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+</center>
+
+<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
 
 
