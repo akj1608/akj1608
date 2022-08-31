@@ -113,7 +113,7 @@
 
 
 <center>
-<h2 align="center">Github Stats 📈</h2>
+<h2 align="center">Github Summary 📈</h2>
 
 <p align="center"><img src="https://metrics.lecoq.io/akj1608" alt="Github Metrics"></p>
 
