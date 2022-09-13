@@ -10,7 +10,7 @@
 
 
 
-- 👀 I’m interested in Coding, and Development 
+- 👀 I’m interested in Coding, and  web Development 
 - 🌱 Learning all about: **HTML, CSS, Bootstrap, Node, Express, MongoDB, React, REST API**
 - ⚡ Fun fact: **I am a textbook INFJ personality type :)**
 
