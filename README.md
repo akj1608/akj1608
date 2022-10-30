@@ -1,6 +1,6 @@
 
 
-## Hey नमस्ते (Namaste)👋  I'm [Abhishek kumar!](https://kumar-abhishek-jha.netlify.app/)
+## Hey नमस्ते (Namaste)👋  I'm [Abhishek !](https://kumar-abhishek-jha.netlify.app/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79482823/155892058-44d3173b-3abd-4202-81d2-26c959207c76.gif" width="400" title="hover text">
