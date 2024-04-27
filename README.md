@@ -9,9 +9,8 @@
 
 
 
-
-- 👀 I’m interested in Coding, and  web Development 
-- 🌱 Learning all about: **HTML, CSS, Bootstrap, Node, Express, MongoDB, React**
+- 👀 I’m Cloud Engineer at ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🌱 Working all about : **Devops and Cloud Development**
 - ⚡ Fun fact: **I am a textbook INFJ personality type :)**
 
 
@@ -48,6 +47,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
@@ -56,26 +56,15 @@
 
 
 
-## Github Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=akj1608&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="450px" height="200px" >
-    </td>
-    <td align="center">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=akj1608&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=akj1608&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="450px" height="200px">
-    </td>
-      <td>
-        <img src="https://activity-graph.herokuapp.com/graph?username=akj1608&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="450px" height="200px">
-      </td>
-  </tr>
-</table>
+<h2 align="left">GitHub Analytics ⚙️</h2>
+
+<p align="center">
+<a href="https://github.com/talha-shaikh-official">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akj1608&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=akj1608&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
 
 # 🚩 Find Me On
 
@@ -102,22 +91,6 @@
   </a>
 </p>
 
-
-<br />
-<br />
-
-
-
-## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/akj1608/akj1608/blob/output/github-contribution-grid-snake.svg)
-
-
-<center>
-<h2 align="center">Github Summary 📈</h2>
-
-<p align="center"><img src="https://metrics.lecoq.io/akj1608" alt="Github Metrics"></p>
-
-![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
 
