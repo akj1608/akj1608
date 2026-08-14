@@ -4,11 +4,9 @@
 
 ### Software Engineer @ Amazon · Cloud & AI/ML · Competitive Programmer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kumar-abhishek-jha.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akj1608/)
 [![TopMate](https://img.shields.io/badge/TopMate-FF6154?style=for-the-badge&logo=circle&logoColor=white)](https://topmate.io/abhishek_kumar_jha10)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_am_akj1608/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akj1608@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/79482823/155892058-44d3173b-3abd-4202-81d2-26c959207c76.gif" width="380" alt="coding gif"/>
